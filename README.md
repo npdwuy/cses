@@ -1,3 +1,3 @@
 # cses
-cses solving code 
-[CSES problemset](https://cses.fi/problemset/)
+[CSES](https://cses.fi/problemset/) solving code 
+
